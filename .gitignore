@@ -13,3 +13,10 @@ build/
 轨迹/
 录屏/
 视频/
+
+# 运行期数据（SQLite 与附件）
+/data/
+
+# 前端构建产物（run.sh 会重新生成）
+/src/main/resources/META-INF/resources/assets/
+/src/main/resources/META-INF/resources/index.html
